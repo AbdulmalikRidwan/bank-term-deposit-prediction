@@ -45,6 +45,10 @@ Using logistic regression, I built a classification model that helps the bank:
 | previous | +1.2746 | 0.029 | Past success predicts future |
 | march | -1.8097 | < 0.001 | March campaigns less effective |
 
+## Scatter Plot: Duration vs Subscription
+
+![Duration vs Subscription](duration_scatter.png)
+
 ## Results
 
 | Metric | Training | Testing |
